@@ -43,4 +43,4 @@ while True:
   user_response2 = input("Anything else? ")
   bot_response2 = get_bot_response2(user_response2)
   print(bot_response2)
-  break
+  continue
